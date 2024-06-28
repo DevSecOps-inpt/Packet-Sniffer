@@ -18,5 +18,6 @@ This Python application allows you to monitor network traffic on different inter
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-url.git
-   cd your-repo-directory
+   git clone git@github.com:DevSecOps-inpt/Packet-Sniffer.git
+   cd Packet-Sniffer
+   python main.py #this may change based on the OS 
